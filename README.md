@@ -154,8 +154,8 @@ El script `deploy.sh` implementa un pipeline de despliegue completo con las sigu
 ## Captura de Pantalla
 
 ### Estado del Contenedor y Aplicación Funcionando
-![image9.png](image9.png)
-![image10.png](image10.png)
+![image9.png](images/image9.png)
+![image10.png](images/image10.png)
 
 
 ## Mejoras Futuras
